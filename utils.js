@@ -9,3 +9,7 @@ function showSeeReview(seeReview) {
 function changePercentOff(percentage) {
     document.getElementById('percent-off').textContent = percentage + "% OFF";
 };
+
+function styleMessage() {
+    // styling a message differently
+}
